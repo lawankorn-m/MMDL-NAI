@@ -17,4 +17,4 @@ https://zenodo.org/records/15460715/files/chemeleon_mp.pt
 
 ## Multimodal Fusion and Classification
 
-Contains the source code for multimodal representation learning and classification, as well as the best MMDL-NAI model used for inference and evaluation.
+Contains the source code for CNN-based multimodal representation learning and classification, as well as the best model used for inference and evaluation.
